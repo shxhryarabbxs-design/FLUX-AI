@@ -139,7 +139,17 @@ roleId: null,
             type: 'robbery_protection',
             protection: true
         }
+    },
+    {
+    id: "unlimited_bank",
+    name: "Unlimited Bank Space",
+    description: "Upgrades your maximum bank capacity to infinity.",
+    price: 1000000,
+    type: "upgrade",
+    emoji: "🏦" // You can change this to any emoji your bot uses
+        }
     }
+    
 ];
 
 
