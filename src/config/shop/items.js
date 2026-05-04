@@ -148,7 +148,6 @@ roleId: null,
     type: "upgrade",
     emoji: "🏦" // You can change this to any emoji your bot uses
         }
-    }
     
 ];
 
